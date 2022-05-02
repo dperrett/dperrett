@@ -23,12 +23,6 @@
 </p>
 
 <p align="center">
-  <a href="https://wakatime.com/@recurser">
-    <img align="center" width="60%" src="./wakatime.svg" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/dperrett">
     <img align="center" width="60%" src="./github-habits.svg" />
   </a>
