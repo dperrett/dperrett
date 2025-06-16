@@ -74,7 +74,7 @@
                                         <span>starred May 15 2023</span>
                                     </div>
                                 </div>
-                                <div class="field description">A lightning-fast boilerplate for building Adobe CEP Extensions in React, Vue, or Svelte built on Vite + TypeScript + Sass</div>
+                                <div class="field description">A lightning-fast boilerplate for building Adobe CEP Extensions in Svelte, React, or Vue built on Vite + TypeScript + Sass</div>
                                 <div class="field infos">
                                     <div class="language">
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
